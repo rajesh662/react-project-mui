@@ -1,0 +1,40 @@
+ #home-section{
+    background-color: #daeff4;
+    padding-bottom: 50px;
+    .col-4{
+        width: 33.33%;
+    }
+
+    .home-h{
+        text-align: center;
+        font-size: 30px;
+        margin: 20px 0;
+    }
+    .home-card{
+        padding: 10px !important;
+        background-color: lightyellow;
+        margin-bottom: 30px;
+      
+    }
+    .h-name{
+        text-align: center;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+    }
+    .h-price{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .h-description{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .h-stock{
+        text-align: end;
+        font-size: 20px;
+        color: green;
+    }
+
+ }
+

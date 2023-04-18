@@ -1,0 +1,35 @@
+#fav-section{
+    background-color:#daeff4 ;
+    padding-bottom: 50px;
+    .fav-h{
+        text-align: center;
+        margin: 20px 0;
+    }
+    .col-4{
+        width: 33.33%;
+    }
+.home-card{
+    padding: 10px;
+    background-color: lightyellow;
+    margin-bottom: 30px;
+}
+.f-name{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+.f-price{
+    font-size: 20px;
+    padding: 10px 0;
+}
+.f-description{
+    font-size: 18px;
+    font-weight: 500;
+}
+.f-stock{
+    text-align: end;
+    font-size: 20px;
+    color: green;
+}
+}

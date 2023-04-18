@@ -1,0 +1,36 @@
+
+#buy-section{
+    background-color: #e9ecef;
+    padding-bottom: 50px;
+    .card-h{
+        text-align: center;
+        padding: 20px 0;
+    }
+    .col-4{
+        width: 33.33%;
+    }
+    .buy-card{
+        padding: 10px;
+        background-color: lightyellow;
+        margin-bottom: 30px;
+    }
+    .puy-name{
+        text-align: center;
+        font-size: 25px;
+        font-weight: 700;
+        color: black;
+    }
+    .puy-price{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .puy-description{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .puy-stock{
+        text-align: end;
+        font-size: 20px;
+        color: green;
+    }
+}
